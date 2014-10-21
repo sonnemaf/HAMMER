@@ -12,6 +12,13 @@ namespace HAMMER.Pants
         static readonly Dictionary<string, Dictionary<string, double>> Brushes = new Dictionary<string, Dictionary<string, double>>
                           {
                               {"Default", new Dictionary<string, double>{
+                                            {"IMECandidateSelectedBackgroundThemeBrush", 0},
+                                            {"SearchBoxButtonBackgroundThemeBrush", 0},
+                                            {"SearchBoxHitHighlightForegroundThemeBrush", 0},
+                                            {"TextSelectionHighlightColorThemeBrush", 0},
+                                            {"SearchBoxButtonPointerOverBackgroundThemeBrush", 36.2352991104126},
+                                            {"SearchBoxHitHighlightSelectedForegroundThemeBrush", 78.1176424026489},
+                                            
                                             {"ComboBoxItemSelectedBackgroundThemeBrush", 0},
                                             {"ComboBoxItemSelectedPointerOverBackgroundThemeBrush", 19.7647047042847},
                                             {"ComboBoxSelectedBackgroundThemeBrush", 0},
@@ -37,6 +44,13 @@ namespace HAMMER.Pants
                                             {"ToggleSwitchCurtainPressedBackgroundThemeBrush", 52.7058792114258},
                             }},
                             {"Light", new Dictionary<string, double>{
+                                            {"IMECandidateSelectedBackgroundThemeBrush", 0},
+                                            {"SearchBoxButtonBackgroundThemeBrush", 0},
+                                            {"SearchBoxHitHighlightForegroundThemeBrush", 0},
+                                            {"TextSelectionHighlightColorThemeBrush", 0},
+                                            {"SearchBoxButtonPointerOverBackgroundThemeBrush", 19.7647047042847},
+                                            {"SearchBoxHitHighlightSelectedForegroundThemeBrush", 78.1176424026489},
+
                                             {"ComboBoxItemSelectedBackgroundThemeBrush", 0},
                                             {"ComboBoxItemSelectedPointerOverBackgroundThemeBrush", 19.7647047042847},
                                             {"ComboBoxSelectedBackgroundThemeBrush", 0},
